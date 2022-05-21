@@ -13,11 +13,20 @@ __NOTOC__ __NOEDITSECTION__
 
 '''Nyia̱ bi̱ra̱uzin:''' [[:Sa:Lilyem swanta|A̱mgba̱m lilyem]] • [[:Sa:Lyulyoot pyipyia̱ a̱lyiat|Lyulyoot pyipyia̱ a̱lyiat]] 
 
+<inputbox>
+type=fulltext
+width=25
+namespaces=Ta̱mpi̱let**
+searchbuttonlabel=Zop A̱ghwop-a̱lyoot Ta̱mpi̱let
+break=no
+placeholder=kidee Tyan
+</inputbox>
+
 |-
 | colspan="2"  style="text-align:center; padding-top:10px;" |
 <inputbox>
 type=search2
-buttonlabel=Nwuan a̱za
+buttonlabel=Cat ati̱kut
 break=no
 </inputbox>
 |}
