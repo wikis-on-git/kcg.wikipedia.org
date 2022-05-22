@@ -2,7 +2,7 @@
 | colspan="2"|
 {| width="100%" style="background-color: #acdeb2; border: solid 1px #bfffbf; padding: 0.5em;" valign=top
 |- align="justify"
-|<div class="center"> Foo ang ma̱ng bai <span style="font-size:xxx-large;">'''Wukipedia''' </span><span style="font-size:100%;border:none;white-space: nowrap">a̱gban lyen nTyap wu ma̱sa̱t nang konyan maai jhyuk a̱ni. A̱yaati̱kut <p>'''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' bya shyia̱ a̱ji mi̱ di̱ yong huni.<span style="white-space: nowrap;"></span></p> </span></div>
+|<div class="center"> Foo ang ma̱ng bai <span style="font-size:xxx-large;">'''Wukipedia'''</span> <span style="font-size:100%;border:none;white-space: nowrap">a̱gban lyen nTyap wu ma̱sa̱t nang konyan maai jhyuk a̱ni.</span><p>A̱yaati̱kut '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' bya shyia̱ a̱ji mi̱ di̱ yong huni.<span style="white-space: nowrap;"></span></p> </div>
 
 <inputbox>
 type=fulltext
