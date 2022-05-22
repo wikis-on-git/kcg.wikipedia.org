@@ -8,9 +8,15 @@
 type=fulltext
 width=25
 namespaces=Ta̱mpi̱let**
-searchbuttonlabel=Zop ati̱kut
+searchbuttonlabel=Zop a̱ghwop-a̱lyoot ta̱mpi̱let
 break=no
-placeholder=kidee A̱tyap
+placeholder=kidee A̱yaasi̱tet Naijeriya
+</inputbox>
+
+<inputbox>
+type=search2
+buttonlabel=Cat ati̱kut
+break=no
 </inputbox>
 
 |[[Fail:Wikipedia-logo-v2-kcg.svg|200px|frameless|center]]
